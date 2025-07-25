@@ -24,18 +24,18 @@ The **ClearCart API** is part of a team e-commerce system. It is responsible for
 ---
 
 ## 📁 Project Structure
-
 ClearCartApi/
 ├── Controllers/
 │   └── ClearCartController.cs         # Handles incoming HTTP requests for clearing and adding to cart
 │
+
 ├── Database/
 │   ├── ShoppingCartContext.cs        # EF Core DbContext for database connection
 │   └── CartItem.cs                   # Model representing a shopping cart item
 │
+
 ├── Migrations/                       # Auto-generated EF Core migration files
 │
 ├── appsettings.json                  # Stores configuration settings like connection string
 ├── Program.cs                        # Entry point for the app; sets up services and middleware
 ├── README.md                         # Project documentation (this file)
--
