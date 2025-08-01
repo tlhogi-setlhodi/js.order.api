@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ClearCartApi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edd29a94c3d10ea1a74a3f9528d309aa9880f61a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ClearCartApi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ClearCartApi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
