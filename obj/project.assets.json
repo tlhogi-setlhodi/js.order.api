@@ -3558,19 +3558,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Reitumetse Lekarapa\\.nuget\\packages\\": {}
+    "C:\\Users\\Letlhogonolo\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Reitumetse Lekarapa\\OrdersApi\\OrdersApi.csproj",
+      "projectUniqueName": "C:\\Users\\Letlhogonolo\\Desktop\\js.order.api\\OrdersApi.csproj",
       "projectName": "OrdersApi",
-      "projectPath": "C:\\Users\\Reitumetse Lekarapa\\OrdersApi\\OrdersApi.csproj",
-      "packagesPath": "C:\\Users\\Reitumetse Lekarapa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Reitumetse Lekarapa\\OrdersApi\\obj\\",
+      "projectPath": "C:\\Users\\Letlhogonolo\\Desktop\\js.order.api\\OrdersApi.csproj",
+      "packagesPath": "C:\\Users\\Letlhogonolo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Letlhogonolo\\Desktop\\js.order.api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Reitumetse Lekarapa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Letlhogonolo\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net9.0"
@@ -3594,7 +3594,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net9.0": {
@@ -3646,7 +3646,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.301/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

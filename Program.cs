@@ -83,10 +83,12 @@ app.UseAuthorization();
 app.MapControllers();
 
 // Configure the HTTP request pipeline.
-if (app.Environment.IsDevelopment())
-{
-    app.MapOpenApi();
-}
+// if (app.Environment.IsDevelopment())
+// {
+//     app.MapOpenApi();
+// }
+
+app.MapOpenApi();
 
 app.UseHttpsRedirection();
 
