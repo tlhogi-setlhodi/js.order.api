@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace OrdersApi.Controllers
 {
-    [Authorize]
+    //[Authorize]
     [ApiController]
     [Route("api/[controller]")]
     public class OrdersController : ControllerBase
